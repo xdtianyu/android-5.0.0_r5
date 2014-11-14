@@ -1,0 +1,6 @@
+sdk-common.jar in this prebuilt directory can be rebuilt from
+    platform/tools/base/sdk-common
+
+From version b3e63a2b5da057f1ab061c1ecf7e804bb2c48963 of the platform/tools/base/sdk-common.
+
+The version is the same as released as part of SDK Tools v23.0.2
