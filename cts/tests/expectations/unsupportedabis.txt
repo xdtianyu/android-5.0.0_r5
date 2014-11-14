@@ -1,0 +1,19 @@
+[
+{
+  description: "Tests not supporting: arm64-v8a, x86_64, mips64",
+  names: [
+    "android.bionic.malloc#pvalloc_overflow",
+    "android.bionic.malloc#pvalloc_std",
+    "android.bionic.malloc#valloc_overflow",
+    "android.bionic.malloc#valloc_std",
+    "android.renderscriptlegacy.cts.LeakTest",
+    "android.renderscriptlegacy.cts.RSBase",
+    "android.renderscriptlegacy.cts.RSBaseCompute",
+    "android.renderscriptlegacy.cts.VersionTest",
+    "android.sample.cts.SampleDeviceResultTest",
+    "android.sample.cts.SampleDeviceTest",
+    "android.sample.cts.SampleHostResultTest",
+    "android.sample.cts.SampleHostTest"
+  ]
+}
+]
